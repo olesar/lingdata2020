@@ -23,4 +23,6 @@
 
 * Найти интервью на YouTube, с которым вы будете работать в течение модуля  
 
-* Заполнить таблицу с метаданными  [тут](https://docs.google.com/spreadsheets/d/1FvS4-A4gj9O_khXbSC1s3xMKeJyd8RtAkJwZ5fTkPLA/edit?usp=sharing)
+* Заполнить таблицу с метаданными  [тут](https://docs.google.com/spreadsheets/d/1FvS4-A4gj9O_khXbSC1s3xMKeJyd8RtAkJwZ5fTkPLA/edit?usp=sharing)  
+
+* [Подробнее](hw1-metadata.md)... 
