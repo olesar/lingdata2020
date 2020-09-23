@@ -36,7 +36,7 @@
 
 ## Текстовые редакторы
 
-* [Notepad++](https://notepad-plus-plus.org) для Windows
+* [Notepad++](https://notepad-plus-plus.org) для Windows (и дистрибутивов Linux, поддерживающих snap, подробнее [тут](https://itsfoss.com/notepad-plus-plus-linux/) и [тут](https://itsfoss.com/install-snap-linux/))
 
 * [Atom](https://atom.io) для macOS и Linux
 
