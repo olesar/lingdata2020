@@ -12,12 +12,14 @@
 
 * изучаем формат HTML  
 
-* загружаем личную страницу на GitHub: `...lingdata/personalpage/about.me   
+* загружаем личную страницу на GitHub: `...lingdata/mwwebpage/about.me   
 
-* файл для работы на уроке  [https://raw.githubusercontent.com/olesar/lingdata/gh-pages/data/example-webpage.html](https://raw.githubusercontent.com/olesar/lingdata/gh-pages/data/example-webpage.html)  
+* файл для работы на уроке  [https://raw.githubusercontent.com/olesar/lingdata/gh-pages/data/example-webpage.html](https://raw.githubusercontent.com/olesar/lingdata2020/gh-pages/data/example-webpage.html)
 
 
 #### Домашнее задание:  
+
+* Заполнить анкету про ваш аккаунт на GitHub и ваши компьютерные навыки [тут](https://docs.google.com/forms/d/e/1FAIpQLSfPXxTbTBxzONsXdGUGrK3idDYuH6Vi0LeOYoCncCRJhbsatw/viewform)
 
 * Найти интервью на YouTube, с которым вы будете работать в течение модуля  
 
