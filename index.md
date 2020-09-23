@@ -1,6 +1,6 @@
 ### Содержание курса "Лингвистические данные", бакалавры 1 курс НИУ ВШЭ
 
-<a href="https://olesar.github.io/lingdata2020">Страница курса</a> :blush: <a href="https://docs.google.com/spreadsheets/d/15elyrE9USSrqbFAdlrMVTICUtFA9d7BYM4UWiaRYNE8/edit#gid=1266306696">Оценки за курс</a> :yum: 
+<a href="https://olesar.github.io/lingdata2020">Страница курса</a> &#129303; <a href="https://docs.google.com/spreadsheets/d/15elyrE9USSrqbFAdlrMVTICUtFA9d7BYM4UWiaRYNE8/edit#gid=1266306696">Оценки за курс</a> &#128523; 
 Группа в <a href="https://t.me/joinchat/GOaNBxcL5Wm7og4yUZQJxw">Телеграм </a>
 <!--- <a href="">Как выставляются оценки за курс</a> &#128526; <a href="">FAQ</a> --->
 
