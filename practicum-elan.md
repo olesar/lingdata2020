@@ -9,6 +9,9 @@ ELAN - система для разметки мультимедийных (ау
 ### 1. Знакомство с системой 
 Скачайте программу ELAN со страницы [Института М. Планка](http://tla.mpi.nl/tools/tla-tools/elan/download/), а также
 Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video](http://www.mpi.nl/tools/elan/elan-example1.mpg) [Audio](http://www.mpi.nl/tools/elan/elan-example1.wav)
+
+На Linux также нужно будет установить плеер VLC (лучше не через snap) и библиотеку `libvlc-dev` для корректной работы ELAN.
+
 Запустите программу (исполняемый файл .jnlp, согласитесь, что вы доверяете источнику, из которого получен файл),
 затем откройте файл с аннотацией
 Файл -> Открыть -> выберите в проводнике файл с аннотацией .eaf.
