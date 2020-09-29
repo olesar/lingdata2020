@@ -25,7 +25,7 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 * несколько слоев разметки  
 Все можно масштабировать.  
 
-<img src="https://github.com/olesar/lingdata2020/blob/gh-pages/fig/elan_1.png" />
+<img src="fig/elan_1.png" />
 
 #### Слои
 Независимые и связанные с родительским слои: принцип Time Subdivision (например, реплика членится на отдельные слова -- слой не может выходить за границы начала/конца родителя), принцип Symbolic Association (один к одному, копирование временных меток). Представление слоев как иерархии (Вид...). Активация слоев для редактирования (двойным кликом).
@@ -39,7 +39,7 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 * Файл -> Новый  
 В появившемся окне выберите нужный видео/аудио и отправьте его в Выбранные файлы. Нажмите ОК.
 
-<img src="https://github.com/olesar/lingdata2020/blob/gh-pages/fig/elan_2.jpg" />
+<img src="fig/elan_2.jpg" />
 
 Сохраните файл аннотации под своим именем (формат .eaf)
 * Файл -> Сохранить  
@@ -61,12 +61,12 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 ### 2.2. Создайте слои аннотации   
 Проиграйте мультимедиа с помощью центральной кнопки на панели проигрывателя, определите количество участников речевой ситуации (включая и тех, кто говорит на видео "за кадром").
 
-<img src="https://github.com/olesar/lingdata2020/blob/gh-pages/fig/elan_3.jpg" />
+<img src="fig/elan_3.jpg" />
 
 * Слой -> Добавьте новый слой  
 Для каждого участника создадим слой расшифровки его реплик (для участника @abp1960f - @abp1960f-text и т.п.). Укажем тип слоя (utterance), участника, аннотатора (себя), остальные характеристики дефолтные (none).
 
-<img src="https://github.com/olesar/lingdata2020/blob/gh-pages/fig/elan_4.jpg" />
+<img src="fig/elan_4.jpg" />
 
 Если вы размечаете видео, для каждого участника в кадре создадим слой его жестов (для участника @abp1960f - @abp1960f-gestures и т.п.). Укажем тип (gestures), участника, аннотатора, остальное дефолтно. Под каждым слоем жестов создадим слой для интерпретации их значения в речевой ситуации (например, @abp1960f-gestMeaning). Здесь укажите тип (gesture-meaning) и родительский слой (например, @abp1960f-gestures)
 * Слои можно импортировать, так же, как типы: Слой -> Импортировать слой...
@@ -80,9 +80,9 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 Кликнув мышкой, установите красную полосу на месте примерного начала микрореплики, а затем, держа нажатой клавишу SHIFT кликните на конце микрореплики (то же можно сделать в режиме drag-and-drop, как будто вы выделяете слова).
 Кликните на появившемся "отрезке" дважды, откроется область для заполнения аннотации.
 
-<img src="https://github.com/olesar/lingdata2020/blob/gh-pages/fig/elan_5.jpg" />  
-<img src="https://github.com/olesar/lingdata2020/blob/gh-pages/fig/elan_6.jpg" />
-<img src="https://github.com/olesar/lingdata2020/blob/gh-pages/fig/elan_7.jpg" />
+<img src="fig/elan_5.jpg" />  
+<img src="fig/elan_6.jpg" />
+<img src="fig/elan_7.jpg" />
 
 #### Полезное  
 Сдвинуть левую/правую границу аннотации: зажав ALT, подвести курсор к границе и подвинуть.
@@ -90,7 +90,7 @@ Example Set [Annotation](http://www.mpi.nl/tools/elan/elan-example3.eaf) [Video]
 Ctrl + Space: проиграть / поставить на паузу. Shift + Space: проиграть выделенное. Ctrl + PageUp/PageDown: промотать вперед/назад.
 Уточнять области для аннотации можно с помощью панели прокрутки (например, переместить красную линию на 1 секунду вперед) и находящейся справа панели выделений (переместить красную линию к концу/началу реплики; проиграть реплику; снять выделение).
 
-<img src="https://github.com/olesar/lingdata2020/blob/gh-pages/fig/elan_8.jpg" />
+<img src="fig/elan_8.jpg" />
 
 Аннотируйте реплики говорящих примерно для 30 секунд видео/аудио.
 
