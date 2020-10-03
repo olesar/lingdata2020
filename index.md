@@ -28,7 +28,7 @@
 
 [Дз 1](hw1-metadata.md). Разметка метаданных для проекта LiveCorpus (ссылка на Гугл-док в проекте семинара).  
 
-[Дз 2](hw2-mywebpage.md). Личная страница, файл html + фотография в папке mywebpage репозитория `lingdata` на github.  
+[Дз 2](hw2-mywebpage.md). Личная страница, файл html + фотография в папке `mywebpage` репозитория `lingdata` на GitHub.  
 
 
 
