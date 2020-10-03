@@ -136,6 +136,7 @@ XHTML ― язык, основанный на тегах HTML и правила�
 6    .       .      PUNCT    DL.MAD                _   
 ``` 
 * XML (BNC, НКРЯ):  
+
 ```
 <s n="12"><w type="TO0" lemma="to">To </w>
            <w type="VVI" lemma="illustrate">illustrate </w>
@@ -147,7 +148,9 @@ XHTML ― язык, основанный на тегах HTML и правила�
            <w type="VVN" lemma="make"> made </w>
            <w type="PRP" lemma="to"> to </w>...
 ```  
+
 * JSON (Бесермянский корпус):  
+
 ```
 ...
 {
@@ -175,6 +178,7 @@ XHTML ― язык, основанный на тегах HTML и правила�
     },
 ...  
 ```
+
 * ProtoBuf (Google serialization data) и мн. др. 
 
 ## QR-код
