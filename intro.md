@@ -12,7 +12,7 @@
 
 * изучаем формат HTML  
 
-* загружаем личную страницу на GitHub: `...lingdata/mwwebpage/about.me`   
+* загружаем личную страницу на GitHub: `...lingdata/mywebpage/about.me`   
 
 * файл для работы на уроке  [https://raw.githubusercontent.com/olesar/lingdata/gh-pages/data/example-webpage.html](https://raw.githubusercontent.com/olesar/lingdata2020/gh-pages/data/example-webpage.html)
 
