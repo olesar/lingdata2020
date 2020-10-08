@@ -30,6 +30,8 @@
 
 [Дз 2](hw2-mywebpage.md). Личная страница, файл html + фотография в папке `mywebpage` репозитория `lingdata` на GitHub.  
 
+[Дз 3](hw3-elan-speech.md). Расшифровка реплик в ELAN, токенизация.  
+
 
 
 # Software
