@@ -159,5 +159,5 @@ SkELL -- открытые корпуса SketchEngine для изучающих 
 Дополнительные задания: <https://docs.google.com/document/d/1DEzUg6ugAJB6lVk-CplARI6w3qBBqK-UPWRdRPPiURM/edit>
 
 Другие платформы для работы в веб-корпусами:  
-* <kontext.korpus.cz> -- требуется регистрация   
+* [KonText](https://kontext.korpus.cz/corpora/corplist) -- требуется регистрация   
 * <http://corpus.leeds.ac.uk/internet.html> -- платформа Сергея Шарова (Университет Лидса), корпуса проекта WaCky! -- коллокации, частотные списки, язык запросов CQP (похож на CQL).  
