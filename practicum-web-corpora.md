@@ -118,10 +118,20 @@ _I highly disagree with the opinion._
 🤔 Можно ли по корпусной выдаче понять, в чём между ними разница?
 
 
+## BNC на платформе NoSketchEngine
 
-<img src="https://raw.githubusercontent.com/pykili/pykili.github.io/master/img/data_webcorpora/skell_word.png"/>
+<a href="https://www.english-corpora.org/bnc/">British National Corpus</a>
+Полезные функции:  
+* Compare  
+
+Например, так можно сравнить сочетаемость слов _aware_ и _familiar_ -- например, какие глаголы употребляются непосредственно слева от них.  
+
+<img src="fig/noSkE-compare.png"/>
+
 
 ## SkELL
+
+<img src="https://raw.githubusercontent.com/pykili/pykili.github.io/master/img/data_webcorpora/skell_word.png"/>
 
 <a href="https://ruskell.sketchengine.co.uk/run.cgi/skell">Russian SkELL</a>
 
@@ -132,16 +142,6 @@ SkELL -- открытые корпуса SketchEngine для изучающих 
 * сочетаемость слова (word sketches)
 * похожие слова (облако слов) 
 
-
-## BNC на платформе NoSketchEngine
-
-<a href="https://www.english-corpora.org/bnc/">British National Corpus</a>
-Полезные функции:  
-* Compare  
-
-Например, так можно сравнить сочетаемость слов _aware_ и _familiar_ -- например, какие глаголы употребляются непосредственно слева от них.  
-
-<img src="fig/NoSkE_compare.png"/>
 
 ## Открытые корпуса Sketch Engine 
 
@@ -158,3 +158,6 @@ SkELL -- открытые корпуса SketchEngine для изучающих 
 
 Дополнительные задания: <https://docs.google.com/document/d/1DEzUg6ugAJB6lVk-CplARI6w3qBBqK-UPWRdRPPiURM/edit>
 
+Другие платформы для работы в веб-корпусами:  
+* <kontext.korpus.cz> -- требуется регистрация   
+* <http://corpus.leeds.ac.uk/internet.html> -- платформа Сергея Шарова (Университет Лидса), корпуса проекта WaCky! -- коллокации, частотные списки, язык запросов CQP (похож на CQL).  
