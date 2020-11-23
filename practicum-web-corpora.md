@@ -104,7 +104,7 @@ _I highly disagree with the opinion._
 Предположим, что слова в языке стоят в случайном порядке и их сочетаемость имеет случайный характер. Давайте ссыплем все слова из корпуса в большой мешок, перемешаем, распределим случайным образом по мешочкам-текстам, а далее выложим по канавкам-предложениям. Оценим вероятность того, что два слова окажутся рядом. Если гипотеза верна, то вероятность появления биграмма on in окажется весьма велика, да и сочетание also suggest будет вполне предсказуема, так как каждое из слов встречается с большой частотой. Вместе с тем, вероятность случайного появления рядом слов heartily и endorse (да еще именно в таком порядке) чрезвычайно мала - ведь каждое слово довольно редкое. Можно понять, что сочетаемость слов имеет разную "цену", или значимость.
 
 
-<img src="https://4.bp.blogspot.com/-1mTZI2GT-9E/WgRQJv7apXI/AAAAAAAAlSQ/19XPvCDVoXoBFWCo7YgHB6DqIzAOFMQLgCLcBGAs/s1600/100.-collocation-with-go.jpg">
+<img src="https://4.bp.blogspot.com/-1mTZI2GT-9E/WgRQJv7apXI/AAAAAAAAlSQ/19XPvCDVoXoBFWCo7YgHB6DqIzAOFMQLgCLcBGAs/s1600/100.-collocation-with-go.jpg"  width="800" >
 
 ### Разные оценки связи  
 
@@ -126,12 +126,12 @@ _I highly disagree with the opinion._
 
 Например, так можно сравнить сочетаемость слов _aware_ и _familiar_ -- например, какие глаголы употребляются непосредственно слева от них.  
 
-<img src="fig/noSkE-compare.png"/>
+<img src="fig/noSkE-compare.png" width="300" />
 
 
 ## SkELL
 
-<img src="https://raw.githubusercontent.com/pykili/pykili.github.io/master/img/data_webcorpora/skell_word.png"/>
+<img src="https://raw.githubusercontent.com/pykili/pykili.github.io/master/img/data_webcorpora/skell_word.png" width="800" />
 
 <a href="https://ruskell.sketchengine.co.uk/run.cgi/skell">Russian SkELL</a>
 
