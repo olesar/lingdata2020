@@ -40,6 +40,11 @@
 [Таблица-инструкция](https://docs.google.com/spreadsheets/d/1n73pj4khl5ze9fyyC6QVYDDLFPlrWbXT4YY0_aiPSBo/edit?usp=sharing): распределение двух категорий  
 [конспект](https://github.com/olesar/lingdata/blob/gh-pages/practicum_spreadsheets-merging.md): объединение двух таблиц    
 
+#### Контрольная работа  
+[идеи для подготовки](test-drill.md)  
+
+#### Экзамен  
+[описание](exam.md)
 
 
 #### Домашние задания   
@@ -57,6 +62,8 @@
 [Дз_6](hw6-elan-final.md). Дедлайн 1 декабря. Финальная сдача проекта "Live Corpus".  
 
 [Дз_7](https://forms.gle/YxckvpPXCPonj58n6). Дедлайн 8 декабря. Поиск в англоязычных веб-корпусах.  
+
+[Для тех, кто хочет поднять накопленную оценку](hw-add.md). Дедлайн 15 декабря, до 22:00. 
 
 
 #### Коротко о курсе   
