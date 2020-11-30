@@ -31,7 +31,15 @@
 [конспект](practicum-antconc.md) 
 
 #### Семинар 7. Поиск в веб-корпусах. NoSketchEngine - фильтрация, частотные списки, коллокации   
-[конспект](practicum-web-corpora.md) 
+[конспект](practicum-web-corpora.md)  
+
+#### Семинар 8. Работа с данными в таблицах: Фильтры. Сводные таблицы. Сортировки. Текстовые формулы
+[конспект](practicum-spreadsheets-1.md)  
+
+#### Семинар 9. Основы количественного анализа корпусных данных. Объединение таблиц  
+[Таблица-инструкция](https://docs.google.com/spreadsheets/d/1n73pj4khl5ze9fyyC6QVYDDLFPlrWbXT4YY0_aiPSBo/edit?usp=sharing)  
+[конспект](https://github.com/lizaku/Programming-and-computer-instruments/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80-15:-%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86)  
+
 
 
 #### Домашние задания   
