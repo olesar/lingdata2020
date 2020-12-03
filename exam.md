@@ -104,7 +104,8 @@ The IWeb Corpus	https://corpus.byu.edu/iweb/
 Русский учебный корпус	http://web-corpora.net/RLC   
 Беларускі N-корпус	https://bnkorpus.info/index.html   
 The Czech National Corpus	https://www.korpus.cz/   
-TheFreeDictionary	https://www.thefreedictionary.com/   
+The Free Dictionary	https://www.thefreedictionary.com/   
+Online Etymology Dictionary https://www.etymonline.com/  
 Корпус цыганского языка	http://web-corpora.net/RomaniCorpus/search/?interface_language=ru   
 Башкирский поэтический корпус	http://web-corpora.net/bashcorpus/search/   
 Рукописные памятники Древней Руси: берестяные грамоты, летописи	http://www.lrc-lib.ru/   
@@ -140,9 +141,9 @@ https://wordnet.princeton.edu/
 https://korp.csc.fi/lab/#?lang=en&stats_reduce=word&cqp=%5B%5D  
 Берестяные грамоты http://gramoty.ru/birchbark/  
 Вавилонская башня http://starling.rinet.ru/cgi-bin/main.cgi?flags=eygtnnl  
-Языки Сибири "http://www.kulturstiftung-sibirien.de/itd_R.html
-Alpha online. Древнегреческо-русский словарь http://gurin.tomsknet.ru/alphaonline.html
-Perseus http://www.perseus.tufts.edu/hopper/morph?l=%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B5%CE%B9%E1%BF%B6%CE%BD+&la=greek
-Корпус туалетных надписей https://linghub.ru/wc_corpus/index.html 
+Языки Сибири "http://www.kulturstiftung-sibirien.de/itd_R.html  
+Alpha online. Древнегреческо-русский словарь http://gurin.tomsknet.ru/alphaonline.html  
+Perseus [http://www.perseus.tufts.edu](http://www.perseus.tufts.edu/hopper/morph?l=%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B5%CE%B9%E1%BF%B6%CE%BD+&la=greek)  
+Корпус туалетных надписей https://linghub.ru/wc_corpus/index.html  
 
 
