@@ -8,11 +8,11 @@
 
 * создаем репозиторий `lingdata` в вашем аккаунте  
 
-* изучаем формат HTML  
+* изучаем форматы Markdown и HTML  
 
 * файл для работы тут:  [https://raw.githubusercontent.com/olesar/lingdata/gh-pages/data/example-webpage.html](https://raw.githubusercontent.com/olesar/lingdata2020/gh-pages/data/example-webpage.html)  
 
-Для работы используем [NotePad++]() или другой продвинутый текстовый редактор    
+Для работы советуем использовать [NotePad++]() для Windows или другие продвинутые текстовые редакторы   
 
 
 
